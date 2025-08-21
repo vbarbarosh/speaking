@@ -1,1 +1,2 @@
-https://youtu.be/5ZUMK70iKEU
+- https://youtu.be/5ZUMK70iKEU
+- https://github.com/vbarbarosh/templ/tree/main/templ.d/electron-live-reload
