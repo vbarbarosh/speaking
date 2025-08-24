@@ -1,0 +1,12 @@
+[
+    {"id": 8, "name": "Pull-Up Bar", "category": "Strength", "price": 29.95, "brand": "Iron Gym", "rating": 4.3, "availability": "in_stock"},
+    {"id": 6, "name": "Foam Roller", "category": "Recovery", "price": 19.99, "brand": "TriggerPoint", "rating": 4.6, "availability": "limited"},
+    {"id": 3, "name": "Resistance Bands Set", "category": "Strength", "price": 32.5, "brand": "Fit Simplify", "rating": 4.5, "discount": 0.15, "availability": "in_stock"},
+    {"id": 10, "name": "Ab Roller", "category": "Core", "price": 21.49, "brand": "Perfect Fitness", "rating": 4.5, "availability": "in_stock"},
+    {"id": 5, "name": "Kettlebell 20lb", "category": "Strength", "price": 45, "brand": "CAP Barbell", "rating": 4.4, "discount": 0.05, "availability": "in_stock"},
+    {"id": 1, "name": "Yoga Mat", "category": "Yoga", "price": 25.99, "brand": "BalanceFrom", "rating": 4.6, "discount": 0.1, "availability": "in_stock"},
+    {"id": 4, "name": "Treadmill", "category": "Cardio", "price": 899, "brand": "NordicTrack", "rating": 4.7, "availability": "out_of_stock"},
+    {"id": 7, "name": "Exercise Bike", "category": "Cardio", "price": 599, "brand": "Peloton", "rating": 4.9, "discount": 0.2, "availability": "in_stock"},
+    {"id": 9, "name": "Jump Rope", "category": "Cardio", "price": 12.99, "brand": "WOD Nation", "rating": 4.2, "discount": 0.25, "availability": "limited"},
+    {"id": 2, "name": "Adjustable Dumbbells", "category": "Strength", "price": 199.99, "brand": "Bowflex", "rating": 4.8, "availability": "preorder"}
+]
